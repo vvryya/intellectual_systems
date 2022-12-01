@@ -1,0 +1,246 @@
+<root>
+	<examples>
+		<object class="V">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="V">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 1 0 0 0 0 0</row>
+	        <row>0 0 0 1 1 0 1  0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="V">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 0 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 1 0 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="V">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 0 0 0 0 0</row>
+	        <row>0 0 0 1 0 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="A">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="A">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 0 0 1 0 0 0 0 0</row>
+	        <row>0 0 0 0 1 0 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 1 0 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="A">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 0 0 1 0 0 0 0 0</row>
+	        <row>0 0 0 0 1 0 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 1 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="A">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 0 0 1 0 0 0 0 0</row>
+	        <row>0 0 0 0 1 0 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 1 0 0 0 0 0 1 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="R">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="R">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="R">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="R">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="YA">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 0 0 1 1 0 0 0</row>
+	        <row>0 0 0 0 0 1 0 1 0 0 0</row>
+	        <row>0 0 0 0 1 0 0 1 0 0 0</row>
+	        <row>0 0 0 0 1 0 0 1 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="YA">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 0 0 1 1 0 0 0</row>
+	        <row>0 0 0 0 0 1 0 1 0 0 0</row>
+	        <row>0 0 0 0 1 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="YA">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 0 0 1 1 0 0 0</row>
+	        <row>0 0 0 0 0 1 0 1 0 0 0</row>
+	        <row>0 0 0 0 1 0 0 1 0 0 0</row>
+	        <row>0 0 0 0 1 0 0 0 1 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="YA">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 0 0 1 1 0 0 0</row>
+	        <row>0 0 0 0 0 1 0 1 0 0 0</row>
+	        <row>0 0 0 0 1 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 1 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+	</examples>
+	<tasks>
+		<object class="V">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="A">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 0 0 1 0 0 0 0 0</row>
+	        <row>0 0 0 0 1 0 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="R">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 1 1 1 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+		<object class="YA">
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 0 1 1 1 1 0 0 0</row>
+	        <row>0 0 0 0 0 0 1 1 0 0 0</row>
+	        <row>0 0 0 0 0 1 0 1 0 0 0</row>
+	        <row>0 0 0 0 1 0 0 1 0 0 0</row>
+	        <row>0 0 0 1 0 0 0 1 0 0 0</row>
+	        <row>0 0 0 0 0 0 0 0 0 0 0</row>
+		</object>
+	</tasks>
+</root>
